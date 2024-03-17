@@ -1,1 +1,6 @@
-swiger
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x885b9B93D8E8690dc32387475dE144d6D7eFDc46'
+quorum: 1
